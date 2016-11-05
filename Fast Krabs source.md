@@ -1,6 +1,6 @@
-##Please don't abuse this
+##Please don't abuse this.
 
-<html> 
+```<html> 
   <head><meta name=viewport content="width=device-width, initial-scale=1"> 
     <title>Oh Yeah Mr. Krabs</title> 
     <link rel='shortcut icon' href='ohyeahmrkrabs.png' type='image/x-icon'/ > 
@@ -24,4 +24,4 @@ function openUrl(){
 } 
   </script> 
   </body> 
-</html>
+</html>```
